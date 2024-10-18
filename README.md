@@ -1,3 +1,4 @@
 # examen_cmo
 
-A new Flutter project.
+Proyecto correspondiente al examen de programación móvil
+
